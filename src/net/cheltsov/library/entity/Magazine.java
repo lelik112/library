@@ -1,4 +1,4 @@
-package net.cheltsov.entity;
+package net.cheltsov.library.entity;
 
 import java.time.Month;
 import java.time.Year;

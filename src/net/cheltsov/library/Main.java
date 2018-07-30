@@ -1,4 +1,4 @@
-package net.cheltsov;
+package net.cheltsov.library;
 
 public class Main {
     public static void main(String[] args) {

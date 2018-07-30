@@ -1,6 +1,6 @@
-package net.cheltsov.repository;
+package net.cheltsov.library.repository;
 
-import net.cheltsov.entity.Edition;
+import net.cheltsov.library.entity.Edition;
 
 import java.util.HashMap;
 import java.util.Map;
